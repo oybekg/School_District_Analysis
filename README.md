@@ -19,10 +19,10 @@ The analysis indicated that overall affect on the discrit summary was unnoticiab
 As shown below, the grade passing percentages for Thomas High School fell drastically, having the ninth-grade scores replaced with NaN. This was due to the fact having replaced 9th grade sccores, we were still using the total number of students at the Thomas High School. There was no affect on Thomas High School's performance among other schools. Thomas High School is ranked second in both scenarios.
 
 ### Thomas High School with 9th grade class grades
-![thsscore3](images/thsscore3.png)
+![thsscore3](images/thsscore3.PNG)
 
 ### Thomas High School without 9th grade class grades
-![thsscore4](images/thsscore4.png)
+![thsscore4](images/thsscore4.PNG)
 
 
 ### High Performing Schools
@@ -31,33 +31,33 @@ As shown below, the grade passing percentages for Thomas High School fell drasti
 
 ### Low Performing Schools
 
-![low5](images/buttom5.png)
+![low5](images/buttom5.PNG)
 
 ### Scores by School Type
 
 Charter Schools had highter scores over District Schools. 
 
-![type](images/type.png)
+![type](images/type.PNG)
 
 ### Scores by School Spending
 
 Replacing Thomas High School 9th grade class grades had no effect on school spending. Schools which spend <$585 had higher performance scores. 
-![spendsum](images/spendsum.png)
+![spendsum](images/spendsum.PNG)
 
 ### Scores by School Size
 Replacing Thomas High School 9th grade class grades had no effect on school size. 
 Schools in range of 1000-2000 students had higher performance scores
-![size](images/sizesum.png)
+![size](images/sizesum.PNG)
 
 ### Math & Reading scores by grade
 The results were calculated with a removed the 9th grade math and reading scores for Thomas High School. Thus, the grades for all other classes and schools remained unchanged.
 
 #### Math
-![mathnan](images/mathnan.png)
+![mathnan](images/mathnan.PNG)
 
 #### Reading 
 
-![readnan](images/readnan.png)
+![readnan](images/readnan.PNG)
 
 ## Summary
 -   Having replaced the 9th grade Thomas High School students with Nan, based on our analysis this change had several affects
