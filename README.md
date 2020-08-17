@@ -13,7 +13,7 @@ Below are the perfomance of higher and lower ranking HIgh Schools.
 
 The analysis indicated that overall affect on the discrit summary was unnoticiable unless you round it to the tenth of a grade point.  
 
-![distsum](images/distsum.png)
+![distsum](images/distsum.PNG)
 
 ## School Summary 
 As shown below, the grade passing percentages for Thomas High School fell drastically, having the ninth-grade scores replaced with NaN. This was due to the fact having replaced 9th grade sccores, we were still using the total number of students at the Thomas High School. There was no affect on Thomas High School's performance among other schools. Thomas High School is ranked second in both scenarios.
